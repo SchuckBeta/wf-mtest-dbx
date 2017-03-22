@@ -10,7 +10,7 @@
   
   dubbo-admin-2.8.4.zip（建议版本）
   
-  maven3（建议版本）
+  maven3（apache-maven-3.3.9-bin 建议版本）
   
   git
   
