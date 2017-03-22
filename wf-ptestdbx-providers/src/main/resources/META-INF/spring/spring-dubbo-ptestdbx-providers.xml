@@ -22,7 +22,7 @@
     
     <dubbo:application name="wf-ptestdbx-providers"/>
 
-    <dubbo:registry address="zookeeper://192.168.1.148:2181"/>
+    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
 
     <!--uncomment this if you want to test dubbo's monitor-->
     <!--<dubbo:monitor protocol="registry"/>-->
