@@ -27,8 +27,8 @@
 		<module>wf-ptestdbx-api</module>
 		<module>wf-ptestdbx-providers</module>
 		<module>wf-ptestdbx-proxy</module>
-		<!-- <module>wf-ptestdbx-client</module> -->
-		<module>wf-ptestdbx-web</module>
+		<!-- <module>wf-ptestdbx-client</module>
+		<module>wf-ptestdbx-web</module> -->
 	</modules>
 	<profiles>
 		<!-- <profile>
