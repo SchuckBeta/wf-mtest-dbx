@@ -21,6 +21,8 @@
    
    启动zookeeper，执行zookeeper-3.4.6\bin\zkServer.cmd
    
+   在当前用户目录C:\Users\DC下添加dubbo.properties文件（没有添加可能导致dubbo-admin-2.8.4启动无法监听zookeeper）
+   
    启动apache-tomcat-8.5.8，首先配置Tomcat用户，启动Tomcat即可，登录密码：tomcat/tomcat
    
    启动dubbo-admin-2.8.4，扔进Tomcat即可（需要配置dubbo.properties），登录密码：root/root
