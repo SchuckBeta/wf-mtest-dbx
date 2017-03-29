@@ -6,11 +6,27 @@
 ## 必备环境：
   zookeeper-3.4.6（建议版本）
   
+  dubbo.properties
+  
   apache-tomcat-8.5.8（建议版本）
   
   dubbo-admin-2.8.4.zip（建议版本）
   
   maven3（apache-maven-3.3.9-bin 建议版本）
+  
+  git
+  
+  
+## 资源地址：
+  zookeeper-3.4.6 链接：http://pan.baidu.com/s/1eRJh8ie 密码：0pku
+  
+  dubbo.properties 链接：http://pan.baidu.com/s/1eRRphom 密码：c8e3
+  
+  apache-tomcat-8.5.8 链接：http://pan.baidu.com/s/1i5DSdpz 密码：pcp8
+  
+  dubbo-admin-2.8.4.zip ：http://pan.baidu.com/s/1i54y9d7 密码：tq5o
+  
+  maven3 链接：http://pan.baidu.com/s/1i4O1fDj 密码：x9h4
   
   git
   
